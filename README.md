@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rauf+Ibna+Rafiq+(Dip)!;" />
 </h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=An+Practician+of+Web+Analyst+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=A+Practician+of+Web+Analyst+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
 
 
 
