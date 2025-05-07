@@ -21,7 +21,7 @@
  </div>
 
 <div align="center"> 
-    <a href="mailto:raufnir4@gmail.com">
+    <a href="mailto:raufnir.in@gmail.com">
     <img align="center" src="https://www.svgrepo.com/show/477054/email-download.svg" alt="raufnir" height="60" width="40" target="_blank" /></a>
     <a href="https://twitter.com/raufnir_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raufnir_4" height="30" width="40" target="_blank" /></a>
     <a href="https://linkedin.com/in/raufibnarafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raufibnarafiq" height="30" width="40" /></a>
