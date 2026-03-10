@@ -4,24 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rauf+Ibna+Rafiq+(Dip)!;" />
 </h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=A+Practician+of+Web+Analyst+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=A+Practician+of+AI+Automation+Engineer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
 
 
 
 <div align="center">
  
- 🔭 I’m currently working on **Facebook Pixel and GA4 Server Site Tracking**
+ 🔭 I’m currently working on **Efficient Automation for Business & AI UGC Ads**
  
- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+ 🌱 I’m currently learning **Agentic AI with Autonomous Bots**
 
-💬 Ask me about **SQL, PowerBI, Tablue, Numpy, Pandas... or anything [here](https://github.com/raufnir/raufnir/issues)**
+💬 Ask me about **N8N, GHL Automation, Chatbot, Voice Agents, Chat Agents... or anything [here](https://github.com/raufnir/raufnir/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
 <div align="center"> 
-    <a href="mailto:raufnir.in@gmail.com">
+    <a href="mailto:connect@rauf.pro.bd">
     <img align="center" src="https://www.svgrepo.com/show/477054/email-download.svg" alt="raufnir" height="60" width="40" target="_blank" /></a>
     <a href="https://twitter.com/raufnir_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raufnir_4" height="30" width="40" target="_blank" /></a>
     <a href="https://linkedin.com/in/raufibnarafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raufibnarafiq" height="30" width="40" /></a>
