@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rauf+Ibna+Rafiq+(Dip)!;" />
 </h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=A+Practician+of+AI+Automation+Engineer+from+BD+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&pause=10000&color=B2D732&vCenter=true&random=true&width=550&height=70&lines=A+Practician+of+AI+Automation+Engineer+from+🇧🇩+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a></h3>
 
 
 
@@ -27,7 +27,7 @@
     <a href="https://linkedin.com/in/raufibnarafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raufibnarafiq" height="30" width="40" /></a>
     <a href="https://kaggle.com/raufnir4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raufnir4" height="30" width="40" target="_blank" /></a>
     <a href="https://fb.com/raufnir04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raufnir04" height="30" width="40" target="_blank" /></a>
-  <a href="https://raufnir.github.io" target="_blank">
+  <a href="https://rauf.pro.bd" target="_blank">
      <img align="center" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" alt="raufnir_4" height="40" width="40" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
