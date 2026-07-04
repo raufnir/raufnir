@@ -34,22 +34,23 @@
 
 <hr/>
 
-<h2 align="center">🚀 Featured Build</h2>
+<h2 align="center">🚀 Selected Automation Work</h2>
 
 <table align="center">
 <tr>
 <td width="700">
 
 ### [COD RTO Reduction System](https://github.com/raufnir/cod-rto-reduction-system)
+Cuts Cash-on-Delivery return rates for e-commerce — 5 coordinated n8n workflows + Postgres: order-risk router, SMS/advance-payment confirmation, Telegram human review, and a weekly ROI proof loop. Idempotent everywhere, fails closed on unverified payment signatures, never lets a third-party score auto-block.
 
-A production-grade n8n automation system that reduces Cash-on-Delivery return-to-origin rates for e-commerce operators — not just a fraud score, a full intent-based intervention pipeline.
+### [Never Miss a Lead](https://github.com/raufnir/never-miss-a-lead)
+24/7 AI sales agent on Telegram — two agents, not one: a conversational agent talks to leads, a second strict agent independently verifies name/email/phone before any handoff to sales. Adversarially tested against a lead trying to fake prior history.
 
-- **5 coordinated n8n workflows + Postgres** — order-risk router, SMS/advance-payment confirmation, Telegram human review, weekly ROI proof loop, and centralized error alerting
-- **Idempotent by design** — every write upserts on `order_id`, so a duplicated webhook never double-charges, double-texts, or double-counts a delivery outcome
-- **Fails closed, never fakes it** — the payment-signature check rejects everything until a real gateway is confirmed, rather than pretending to validate what it can't
-- **A third-party risk score never gets veto power** — timeouts and errors route to human review, never to auto-approve or auto-block
+### [AP Autopilot](https://github.com/raufnir/ap-autopilot)
+Turns scanned/handwritten supplier statements into clean spreadsheet rows automatically, with a nightly Telegram "who you owe" digest. Cost-aware two-tier vision AI — cheap model first, stronger model only when confidence is low.
 
-**[→ Read the full write-up](https://github.com/raufnir/cod-rto-reduction-system)**
+### [Shopkeeper Copilot](https://github.com/raufnir/shopkeeper-copilot)
+WhatsApp customer ordering agent + Telegram owner price-update bot sharing one live Google Sheet catalog — zero sync lag between an owner's price change and the next customer reply.
 
 </td>
 </tr>
